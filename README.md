@@ -1,5 +1,5 @@
-sublimetext3-config
-===================
+Sublime Text 3 config
+=====================
 
 Settings, snippets and schemas for Sublime Text 3
 
