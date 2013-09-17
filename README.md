@@ -1,7 +1,7 @@
 Sublime Text 3 config
 =====================
 
-Settings, snippets and schemas for Sublime Text 3
+Custom settings, snippets and schemas for Sublime Text 3
 
 Usage
 =====
