@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+{% block javascripts %}
+    {{ parent() }}
+
+    <script>
+        ${1:}
+    </script>
+{% endblock %}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>block-js</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.html(twig)</scope> -->
+</snippet>

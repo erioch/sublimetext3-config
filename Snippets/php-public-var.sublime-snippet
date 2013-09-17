@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+/**
+ * @var ${1:type} \$${2:var}
+*/
+public \$${3:var};
+
+${4:}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>pbv</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
+</snippet>

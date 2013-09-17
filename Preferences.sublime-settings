@@ -1,0 +1,24 @@
+{
+	"always_show_minimap_viewport": true,
+	"color_scheme": "Packages/User/Schemas/Magnolia.tmTheme",
+	"detect_indentation": false,
+	"fold_buttons": false,
+	"font_options":
+	[
+		"bold"
+	],
+	"font_size": 10.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage",
+		"Dark Pastel Color Scheme",
+		"Chuby Ninja Color Scheme"
+	],
+	"translate_tabs_to_spaces": true,
+	"word_wrap": true,
+    "trim_trailing_white_space_on_save": true,
+    "ensure_newline_at_eof_on_save": true,
+    "highlight_modified_tabs": true,
+    "show_full_path": true
+}

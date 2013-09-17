@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+{% block stylesheets %}
+    {{ parent() }}
+    <link rel="stylesheet" href="${1:}">
+{% endblock %}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>block-css</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.html(twig)</scope> -->
+</snippet>
